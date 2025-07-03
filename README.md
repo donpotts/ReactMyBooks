@@ -46,7 +46,7 @@ graph TD
 | | Tailwind CSS | Utility-first CSS framework for rapid UI development. |
 | **Backend** | ASP.NET Core 9 Web API | High-performance API for handling business logic. |
 | | C# 12 | Modern, powerful language for the backend. |
-| **Database** | Entity Framework Core 8 | ORM for interacting with the database. |
+| **Database** | Entity Framework Core 9 | ORM for interacting with the database. |
 | | SQLite | Lightweight, serverless, file-based database for local storage. |
 
 
