@@ -1,0 +1,67 @@
+[
+  {
+    "Id": 1,
+    "Name": "None",
+    "SubcategoryId": 1
+  },
+  {
+    "Id": 2,
+    "Name": "Rent/Mortgage",
+    "SubcategoryId": 1
+  },
+  {
+    "Id": 3,
+    "Name": "Utility",
+    "SubcategoryId": 1
+  },
+  {
+    "Id": 4,
+    "Name": "Vehicle",
+    "SubcategoryId": 1
+  },
+  {
+    "Id": 5,
+    "Name": "Clothing",
+    "SubcategoryId": 1
+  },
+  {
+    "Id": 6,
+    "Name": "Dining",
+    "SubcategoryId": 1
+  },
+  {
+    "Id": 7,
+    "Name": "Grocery",
+    "SubcategoryId": 1
+  },
+  {
+    "Id": 8,
+    "Name": "Hobby",
+    "SubcategoryId": 1
+  },
+  {
+    "Id": 9,
+    "Name": "Household",
+    "SubcategoryId": 1
+  },
+  {
+    "Id": 10,
+    "Name": "Personal Care",
+    "SubcategoryId": 1
+  },
+  {
+    "Id": 11,
+    "Name": "Membership Fee",
+    "SubcategoryId": 1
+  },
+  {
+    "Id": 12,
+    "Name": "Miscellanous",
+    "SubcategoryId": 1
+  },
+  {
+    "Id": 13,
+    "Name": "Income",
+    "SubcategoryId": 1
+  }
+]

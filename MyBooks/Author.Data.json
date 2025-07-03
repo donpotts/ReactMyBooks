@@ -1,0 +1,20 @@
+[
+  {
+    "Id": 1,
+    "Name": "The Author",
+    "BirthDate": "2000-01-01T00:00:00",
+    "ShortBio": "Computer programmer and author of many papers and books."
+  },
+  {
+    "Id": 2,
+    "Name": "My Author",
+    "BirthDate": "2000-01-02T00:00:00",
+    "ShortBio": "Computer programmer and author of many papers and books."
+  },
+  {
+    "Id": 3,
+    "Name": "Your Author",
+    "BirthDate": "2000-01-03T00:00:00",
+    "ShortBio": "Computer programmer and author of many papers and books."
+  }
+]

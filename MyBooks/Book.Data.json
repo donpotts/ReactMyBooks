@@ -1,0 +1,26 @@
+[
+  {
+    "Id": 1,
+    "Name": "Your Book Name",
+    "PublishDate": "2024-07-10T00:00:00",
+    "Price": 15.10
+  },
+  {
+    "Id": 2,
+    "Name": "My Book Name",
+    "PublishDate": "2024-07-10T00:00:00",
+    "Price": 15.50
+  },
+  {
+    "Id": 3,
+    "Name": "Her Book Name",
+    "PublishDate": "2024-07-10T00:00:00",
+    "Price": 15.80
+  },
+  {
+    "Id": 4,
+    "Name": "His Book Name",
+    "PublishDate": "2024-07-10T00:00:00",
+    "Price": 159.90
+  }
+]
