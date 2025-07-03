@@ -5,7 +5,7 @@
 It features a clean, modern React frontend built with Vite and styled with Tailwind CSS, plus a robust ASP.NET Core backend powered by Entity Framework Core for data management.
 
 
-![MyBooks Logo](./ReactModernClient/Assets/MyBooks.png)
+![MyBooks Logo](./MyBooks/Assets/ReactMyBooks.png)
 
 ## ✨ Core Features
 
@@ -65,7 +65,7 @@ Follow these steps to get the application running locally.
 
 ```bash
 git clone https://github.com/donpotts/ReactMyBooks.git
-cd MyBooks
+cd ReactMyBooks
 ```
 
 ### 2. Run the Backend Server (`MyBooks`)
@@ -93,7 +93,7 @@ Open a **new terminal window** for this step.
 
 ```bash
 # Navigate to the client project directory
-cd my-books-react
+cd ReactModernClient
 
 # Install Node.js dependencies for React, Vite, and Tailwind CSS
 npm install
